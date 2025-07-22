@@ -71,6 +71,12 @@ I'm focused on delivering real value through clean code, robust system design, a
 
 ---
 
+## 🌐 Portfolio Website
+
+- Visit my portfolio: [sunilgiri9.com.np](https://sunilgiri9.com.np)
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -85,8 +91,8 @@ I'm focused on delivering real value through clean code, robust system design, a
 - 📧 Email: [suneelgiri641@gmail.com](mailto:suneelgiri641@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sunil-giri-b106b8259](https://linkedin.com/in/sunil-giri-b106b8259)  
 - 🧑‍💻 GitHub: [github.com/suneelgiree](https://github.com/suneelgiree)
+- 🌐 Portfolio: [sunilgiri9.com.np](https://sunilgiri9.com.np)
 
 ---
 
 > Let’s build something impactful.
-
